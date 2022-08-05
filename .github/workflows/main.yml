@@ -13,8 +13,8 @@ jobs:
       - name: Docker Hub Description
         uses: peter-evans/dockerhub-description@v3
         with:
-            username: secrets.DUSERNAME
-            password: secrets.DPASS
+            username: ${{ secrets.DUSERNAME }}
+            password: ${{ secrets.DPASS }}
             repository: yashasvichaurasia/testing
       
       
