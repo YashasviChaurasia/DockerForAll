@@ -38,3 +38,11 @@ After writing the Dockerfile go to the terminal and in make sure you are in the 
 1. To delete a Docker Image: `docker rmi <IMAGE_ID>`
 
 #### *You can build from Github repo with `docker build <url of repo>` but the repo should have a dockerfile ofc 
+
+## Running the Docker Image locally from any directory
+`docker run <image_name:tag>`
+
+### Resources:
+As you have come this far you may want to explore further into the depths of Docker as a tool so here you go
+
+***~ [Docker Documentation](https://www.docker.com/play-with-docker/) ~***

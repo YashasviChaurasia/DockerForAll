@@ -19,6 +19,9 @@ For a quick analogy it is  like Git and GitHub.
 Both of them are different but work together.
 
 Basically DockerHub is a platform where we store our Containerized Images on a server just like on github we store our repos 
+Below we have DockerDesktop and DockerHub
+
+![alt](Docker.png)  ![alt](Dockerhub.png)
 
 
 # How to Use this Repo 

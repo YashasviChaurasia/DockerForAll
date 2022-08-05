@@ -36,8 +36,14 @@ Dockerfile is used to rebuild the environment again on new machines.
 ## Docker Image
 Dockerfiles are used to build Docker Images which are like blueprints to create containers.
 
+It is the Images that matter to us.
+The Dockerfile has info which is used to pack relevant packages in an Image which is compact and can be reused
+
+Later this image can be used to unpack back into the container which we will use further.
+
+
 What we need in the end is a Container which we run an work in .
-So an easy way to understand is a Image further a Instruction Manual on how to build a container.
+So an easy way to understand is a Image further a Instruction Manual on how to rebuild a environment in form of a container.
 
 One image can create multiple containers.
 
