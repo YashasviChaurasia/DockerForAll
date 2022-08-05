@@ -1,0 +1,22 @@
+name: CI
+
+on: push
+ 
+jobs:
+  
+  build:
+    
+    runs-on: ubuntu-latest
+
+    
+    steps:
+      - name: Docker Hub Description
+        uses: peter-evans/dockerhub-description@v3
+        with:
+            username: DUSERNAME
+            password: DPASS
+            repository: yashasvichaurasia/testing
+      
+      
+
+     
