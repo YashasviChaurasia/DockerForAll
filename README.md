@@ -28,8 +28,8 @@ Basically DockerHub is a platform where we store our Containerized Images on a s
 
 ### Some Resources:
 
-1. [Quick Guide to Docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
-1. [Docker Basics](https://www.youtube.com/watch?v=pTFZFxd4hOI&t=1101s) 
+- [Quick Guide to Docker](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [Docker Basics](https://www.youtube.com/watch?v=pTFZFxd4hOI&t=1101s) 
 
 `Thank You`  
 
