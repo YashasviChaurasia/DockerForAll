@@ -1,12 +1,10 @@
 # Docker For All *:whale:*
 ###### This repository is just a effort to document my understanding of Docker and DockerHub.
 
-:whale: github
 
-&#x1F433;	hex
+<!-- ![alt emo]() -->
 
 
-&#128051; decimal
 
 ![alt text](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png)
 ## What is Docker?
