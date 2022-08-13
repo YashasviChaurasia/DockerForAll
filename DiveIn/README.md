@@ -17,7 +17,9 @@ A container is simply a process which has all the required dependencies for the 
 So basically in easy terms it is a transportable software which is ready to be run quickly as it has all of the packages it needs to run.
 
 ## Lets check our installation:
+
 1. Run `docker version` on your terminal to check the version of docker you have installed.
+
 ![alt text](dockerversion.png)
 
 
